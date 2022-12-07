@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Clsrnick Yap
+- 👋 Hi, I’m Clarnick Yap
 - 👀 I’m interested in Deep learning, Kali Linux, Networking and Cyber Security
 - 🌱 I’m currently learning Networking, Cyber Security and Java
 - 📫 How to reach me 
