@@ -5,7 +5,7 @@
 	- via e-mail: clarns.yap4@gmail.com
 	- via Instagram: @nick_25y
 	- via Facebook: https://www.facebook.com/clarn.nick
-	- via LinkedIn: https://www.linkedin.com/in/clarnick-yap-723240224/
+	- via LinkedIn: https://www.linkedin.com/in/clarnick-yap/
 
 <!---
 Clarns25/Clarns25 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
